@@ -1,0 +1,38 @@
+<annotation>
+	<folder>IMAGE_SOURCE</folder>
+	<filename>2018-05-15 12.44.25.jpg</filename>
+	<path>C:\Users\teo28\Documents\Leicester\OPTICUT\IMAGE_SOURCE\2018-05-15 12.44.25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>candleleafs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>934</xmin>
+			<ymin>1110</ymin>
+			<xmax>1167</xmax>
+			<ymax>2078</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>candleleafs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1460</xmin>
+			<ymin>1179</ymin>
+			<xmax>1504</xmax>
+			<ymax>1314</ymax>
+		</bndbox>
+	</object>
+</annotation>

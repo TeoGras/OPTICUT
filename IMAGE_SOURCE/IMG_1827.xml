@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IMAGE_SOURCE</folder>
+	<filename>IMG_1827.JPG</filename>
+	<path>C:\Users\teo28\Documents\Leicester\OPTICUT\IMAGE_SOURCE\IMG_1827.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>candleleafs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1535</xmin>
+			<ymin>1084</ymin>
+			<xmax>1790</xmax>
+			<ymax>2495</ymax>
+		</bndbox>
+	</object>
+</annotation>
