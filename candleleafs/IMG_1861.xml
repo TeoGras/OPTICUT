@@ -1,0 +1,26 @@
+<annotation>
+	<folder>candleleafs</folder>
+	<filename>IMG_1861.JPG</filename>
+	<path>C:\Users\Boss\OPTICUT\Image candle\candleleafs\IMG_1861.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>candleleafs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1483</xmin>
+			<ymin>372</ymin>
+			<xmax>1774</xmax>
+			<ymax>2398</ymax>
+		</bndbox>
+	</object>
+</annotation>

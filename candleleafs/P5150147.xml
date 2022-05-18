@@ -1,0 +1,26 @@
+<annotation>
+	<folder>candleleafs</folder>
+	<filename>P5150147.JPG</filename>
+	<path>C:\Users\Boss\OPTICUT\Image candle\candleleafs\P5150147.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>candleleafs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>1112</ymin>
+			<xmax>2784</xmax>
+			<ymax>1434</ymax>
+		</bndbox>
+	</object>
+</annotation>

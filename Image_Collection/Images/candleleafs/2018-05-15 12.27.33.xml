@@ -1,0 +1,38 @@
+<annotation>
+	<folder>candleleafs</folder>
+	<filename>2018-05-15 12.27.33.jpg</filename>
+	<path>C:\Users\paulw\Documents\ISEN\M1\Stage\Image_Collection\Images\candleleafs\2018-05-15 12.27.33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>candleleafs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1833</xmin>
+			<ymin>1217</ymin>
+			<xmax>1903</xmax>
+			<ymax>1479</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>candleleafs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>1158</ymin>
+			<xmax>547</xmax>
+			<ymax>1435</ymax>
+		</bndbox>
+	</object>
+</annotation>
